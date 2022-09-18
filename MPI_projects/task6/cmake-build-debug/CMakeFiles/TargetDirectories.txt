@@ -1,0 +1,3 @@
+/Users/akhaman/Documents/ParallelProjects/MPI_projects/task6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akhaman/Documents/ParallelProjects/MPI_projects/task6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akhaman/Documents/ParallelProjects/MPI_projects/task6/cmake-build-debug/CMakeFiles/task6.dir
